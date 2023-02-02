@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... good knowledge
 - 💬 Ask me about ... doubts
 - 📫 How to reach me: ... S560619@nwmissouri.edu
-- 😄 Pronouns: ... nothing
+- 😄 Pronouns: ... 
 - ⚡ Fun fact: ...
 -->
