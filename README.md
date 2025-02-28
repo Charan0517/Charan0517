@@ -9,12 +9,6 @@
   </a>
 </div>
 
-- 🔭 I’m currently pursuing **masters in Applied Computer Science at Northwest Missouri State University**
-- 🌱 I’m currently learning **Web Applications, Cloud Computing**
-- 💬 Ask me about **Java, SQL, Web Applications**
-- 📫 How to reach me: **S560619@nwmissouri.edu**
-- 🌱 I am interested in **listening to music, Travelling**
-
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
